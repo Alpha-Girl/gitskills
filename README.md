@@ -1,2 +1,6 @@
 # gitskills
-##Creating anew branch is quick & simple.
+<<<<<<< HEAD
+##Creating anew branch is quick and simple.
+=======
+##Creating anew branch is quick and simple.
+>>>>>>> feature1
